@@ -11,6 +11,7 @@
 		9A7FB1C829952FB70038868A /* ContentView.swift in Sources */ = {isa = PBXBuildFile; fileRef = 9A7FB1C729952FB70038868A /* ContentView.swift */; };
 		9A7FB1CA29952FB80038868A /* Assets.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = 9A7FB1C929952FB80038868A /* Assets.xcassets */; };
 		9A7FB1CD29952FB80038868A /* Preview Assets.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = 9A7FB1CC29952FB80038868A /* Preview Assets.xcassets */; };
+		9A7FB1D42997C7EF0038868A /* SkipStackLayout.swift in Sources */ = {isa = PBXBuildFile; fileRef = 9A7FB1D32997C7EF0038868A /* SkipStackLayout.swift */; };
 		9A7FB1D62997C8140038868A /* SkipStackView.swift in Sources */ = {isa = PBXBuildFile; fileRef = 9A7FB1D52997C8140038868A /* SkipStackView.swift */; };
 		9A7FB1D82997C87F0038868A /* IconView.swift in Sources */ = {isa = PBXBuildFile; fileRef = 9A7FB1D72997C87F0038868A /* IconView.swift */; };
 /* End PBXBuildFile section */
@@ -21,6 +22,7 @@
 		9A7FB1C729952FB70038868A /* ContentView.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = ContentView.swift; sourceTree = "<group>"; };
 		9A7FB1C929952FB80038868A /* Assets.xcassets */ = {isa = PBXFileReference; lastKnownFileType = folder.assetcatalog; path = Assets.xcassets; sourceTree = "<group>"; };
 		9A7FB1CC29952FB80038868A /* Preview Assets.xcassets */ = {isa = PBXFileReference; lastKnownFileType = folder.assetcatalog; path = "Preview Assets.xcassets"; sourceTree = "<group>"; };
+		9A7FB1D32997C7EF0038868A /* SkipStackLayout.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = SkipStackLayout.swift; sourceTree = "<group>"; };
 		9A7FB1D52997C8140038868A /* SkipStackView.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = SkipStackView.swift; sourceTree = "<group>"; };
 		9A7FB1D72997C87F0038868A /* IconView.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = IconView.swift; sourceTree = "<group>"; };
 /* End PBXFileReference section */
@@ -58,6 +60,7 @@
 				9A7FB1C729952FB70038868A /* ContentView.swift */,
 				9A7FB1D72997C87F0038868A /* IconView.swift */,
 				9A7FB1C529952FB70038868A /* SkipStackApp.swift */,
+				9A7FB1D32997C7EF0038868A /* SkipStackLayout.swift */,
 				9A7FB1D52997C8140038868A /* SkipStackView.swift */,
 				9A7FB1C929952FB80038868A /* Assets.xcassets */,
 				9A7FB1CB29952FB80038868A /* Preview Content */,
@@ -147,6 +150,7 @@
 				9A7FB1C829952FB70038868A /* ContentView.swift in Sources */,
 				9A7FB1C629952FB70038868A /* SkipStackApp.swift in Sources */,
 				9A7FB1D62997C8140038868A /* SkipStackView.swift in Sources */,
+				9A7FB1D42997C7EF0038868A /* SkipStackLayout.swift in Sources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};
