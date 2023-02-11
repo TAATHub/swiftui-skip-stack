@@ -1,10 +1,3 @@
-//
-//  SkipStackView.swift
-//  SkipStack
-//
-//  Created by TAAT on 2023/02/11.
-//
-
 import SwiftUI
 
 struct SkipStackView: View {
